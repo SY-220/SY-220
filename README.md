@@ -6,7 +6,7 @@
 I'm a **CFA® charterholder** with experience in **M&A analysis, financial analysis, and financial modeling**. I love taking on challenges and learning new skills, and I'm learning Python to become a quant.
 
 - 🌱 Currently learning: **Python**
-- 🔭 Working on: **AI image recognition**
+- 🔭 Working on: **trading bots**
 - 🌍 Languages: **Mandarin, English, Taiwanese, Spanish, Korean, Python, HTML, and CSS**
 - ⚡ Fun fact: **I'm addicted to word games such as Scrabble and Wordle.**
 
